@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yifeng's notes on big data, hadoop, cloud and some hobbies.
+title: Hadoop, cloud and some hobbies.
 ---
 {% include JB/setup %}
 
