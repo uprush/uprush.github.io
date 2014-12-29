@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hello World!
+title: Yifeng's notes on big data, hadoop, cloud and some hobbies.
 ---
 {% include JB/setup %}
 
-工事中...
+Blog Posts
 
 <ul class="posts">
   {% for post in site.posts %}
