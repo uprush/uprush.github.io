@@ -2,7 +2,7 @@
 layout: post
 title: "CloudFrontとS3によるプライベートコンテンツ配信"
 description: "S3とCloudFrontのSigned-URLを組み合わせてプライベートコンテンツ配信"
-category: "CDN"
+category: "cloud"
 tags: [aws, cloudfront, cdn]
 ---
 {% include JB/setup %}

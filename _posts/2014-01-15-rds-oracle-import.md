@@ -2,7 +2,7 @@
 layout: post
 title: "EC2にOracle XEをインストールしデータインポート"
 description: "EC2にOracle XEをインストールしデータインポート"
-category: "database"
+category: "cloud"
 tags: [aws, rds, oracle]
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: "Hadoop in the Cloud"
 description: "Hadoop meets AWS"
-category: "big-data"
+category: "big data"
 tags: [hadoop, aws, emr, big data]
 ---
 {% include JB/setup %}
