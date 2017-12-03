@@ -2,7 +2,7 @@
 layout: post
 title: "Apache HiveとDruidを使ったリアルタイムSQL"
 description: "Apache HiveとDruidを使って、SQLによるビッグデータのリアルタイム クエリが簡単に実現できます。"
-category: "big data"
+category: "big-data"
 tags: [hive, druid, hadoop]
 ---
 {% include JB/setup %}

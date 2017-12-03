@@ -2,7 +2,7 @@
 layout: post
 title: "HDP Cluster on Your Laptop"
 description: "Building a 4 nodes HDP (Hortonworks Data Platform) cluster on your laptop with Apache Ambari and Vagrant is pretty simple."
-category: "big data"
+category: "big-data"
 tags: [hadoop, hdp, vagrant]
 ---
 {% include JB/setup %}
