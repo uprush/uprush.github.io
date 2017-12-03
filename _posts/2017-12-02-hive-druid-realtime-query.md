@@ -26,9 +26,9 @@ IoTやAIのユースケースがますます増えているのなか、ビッグ
 - すべての主要なBIツールと連携。
 - 300PB以上のスケール実績がある。
 
-![Hive 2 with LLAP](../assets/images/hive-llap.png)
+![Hive 2 with LLAP](/assets/images/hive-llap.png)
 
-![Hive 2 TPC-DS Benchmark](../assets/images/hive-tpcds.png)
+![Hive 2 TPC-DS Benchmark](/assets/images/hive-tpcds.png)
 
 # Druidとは
 
@@ -39,7 +39,7 @@ IoTやAIのユースケースがますます増えているのなか、ビッグ
 - 蓄積データとリアルタイムデータの融合
 - 高速な近似計算
 
-![Druidアーキテクチャ](../assets/images/druid-arch.png "Druid Architecture")
+![Druidアーキテクチャ](/assets/images/druid-arch.png "Druid Architecture")
 
 # 仮想通貨データのリアルタイム分析
 
@@ -94,7 +94,7 @@ $ ./04query_rest.sh
 
 [Apache Superset (incubating)](https://github.com/apache/incubator-superset) を用いてDruidに投入された仮想通貨データのリアルタイム・ダッシュボードを簡単に作成する。
 
-![仮想通貨ダッシュボード](../assets/images/crypto-superset.png "Crypto Dashboard")
+![仮想通貨ダッシュボード](/assets/images/crypto-superset.png "Crypto Dashboard")
 
 ## HiveからSQLでデータ分析
 
@@ -137,4 +137,4 @@ SQLを何回か実行すると、結果がリアルタイムに変わってい�
 
 Tableauから、Hiveに接続しデータを可視化してみる。
 
-![Tableauによる可視化](../assets/images/crypto-tableau.png "Crypto Visualization with Tableau")
+![Tableauによる可視化](/assets/images/crypto-tableau.png "Crypto Visualization with Tableau")

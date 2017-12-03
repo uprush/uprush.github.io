@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hadoop, cloud & some hobbies
+title: Hadoop, cloud, running, hiking
 ---
 {% include JB/setup %}
 
